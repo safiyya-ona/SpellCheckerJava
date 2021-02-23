@@ -1,0 +1,6 @@
+This file contains a few cases I would like to test.
+I have included some del|imiters] so I can fil\ter them out.
+I also wanted to icludes sme speling misttakes.
+Sawpped wrods oto!
+This rprogram is suposed to cehck for incorret sTrings.
+NO MTTER THE CSE.
